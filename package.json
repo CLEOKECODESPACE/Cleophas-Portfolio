@@ -3,7 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://cleokecodespace.github.io",
+  "homepage": "https://cleokecodespace.github.io/Cleophas-Portfolio",
+  "gh-pages": {
+    "repo": "https://github.com/cleokecodespace/Cleophas-Portfolio.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
