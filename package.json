@@ -3,9 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://cleokecodespace.github.io/Cleophas-Portfolio",
+  "homepage": "https://CLEOKECODESPACE.github.io/Cleophas-Portfolio",
   "gh-pages": {
-    "repo": "https://github.com/cleokecodespace/Cleophas-Portfolio.git"
+    "repo": "https://github.com/CLEOKECODESPACE/Cleophas-Portfolio.git"
   },
   "scripts": {
     "dev": "vite",
@@ -13,7 +13,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist -r https://github.com/CLEOKECODESPACE/Cleophas-Portfolio.git"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2",
